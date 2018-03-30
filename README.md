@@ -2,7 +2,7 @@
 An attempt at an exhaustive list of apps and games there were on the Pi Store from 2012-2016.
 
 ## Apps
-* (Asterisk)[http://www.raspberry-asterisk.org/]
+* [Asterisk](http://www.raspberry-asterisk.org/)
 * Audio Controller
 * BarracudaDrive
 * Calculator++
@@ -43,7 +43,7 @@ An attempt at an exhaustive list of apps and games there were on the Pi Store fr
 * Crazy Ping
 * DMazeD
 * Martian Invaders
-* (Quip - Blow Your Friends Away)[https://bitbucket.org/xixs/leedshack/src] 
+* [Quip - Blow Your Friends Away](https://bitbucket.org/xixs/leedshack/src)
 
 ## Tutorials
 * Raspberry Invaders
