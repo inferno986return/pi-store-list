@@ -9,13 +9,16 @@ The project was forced to close under an apparent EU ruling that disallowed a no
 ## License
 This project is licensed under CC-BY-SA 3.0.
 
+### Remix EULA
+The Remix EULA was a license specific to the Pi Store that allowed alteration of other developer's projects providing they were also uploaded to the Pi Store under the same license. The developer had to be credited too.
+
 ## Apps
-| Name and Official URL                          | Developer    | Official short description | License | Active |
-|:----------------------------------------------:|:------------:|:--------------------------:|:-------:|:------:|
-| [Asterisk](http://www.raspberry-asterisk.org/) | Digium, Inc. |                            | GPLv2   |        |
+| Name and Official URL                          | Developer    | Description | License | Active |
+|:----------------------------------------------:|:------------:|:-----------:|:-------:|:------:|
+| [Asterisk](http://www.raspberry-asterisk.org/) | Digium, Inc. |             | GPLv2   | Yes    |
 | Audio Controller | | | | |
 | [BarracudaDrive (now FuguHub)](http://fuguhub.com/RaspberryPi.lsp) | Real Time Logic LLC | | Proprietary | Yes |
-| Calculator++ | TironisSoftWorks | | Proprietary | No |
+| Calculator++ | TironisSoftWorks | A simple calculator made in C++ and GTK. | RemixEULA | No |
 | Calorie Counter | | | | |
 | Cricket Scores LIVE | | | | |
 | [LibreOffice](https://www.libreoffice.org/)    | The Document Foundation | | MPLv2 | Yes |
