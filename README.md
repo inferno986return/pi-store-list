@@ -13,20 +13,20 @@ This project is licensed under CC-BY-SA 3.0.
 The Remix EULA was a license specific to the Pi Store that allowed alteration of other developer's projects providing they were also uploaded to the Pi Store under the same license. The developer had to be credited too.
 
 ## Apps
-| Name and Official URL                          | Developer    | Description | License | Active |
-|:----------------------------------------------:|:------------:|:-----------:|:-------:|:------:|
-| [Asterisk](http://www.raspberry-asterisk.org/) | Digium, Inc. |             | GPLv2   | Yes    |
-| Audio Controller | | | | |
-| [BarracudaDrive (now FuguHub)](http://fuguhub.com/RaspberryPi.lsp) | Real Time Logic LLC | | Proprietary | Yes |
-| Calculator++ | TironisSoftWorks | A simple calculator made in C++ and GTK. | RemixEULA | No |
-| Calorie Counter | | | | |
-| Cricket Scores LIVE | | | | |
-| [LibreOffice](https://www.libreoffice.org/)    | The Document Foundation | | MPLv2 | Yes |
-| [OMX Player](https://github.com/huceke/omxplayer) | Edgar Hucek | | GPLv2 | |
-| PiLauncher | | | | |
-| Scamp AV Player | | | | |
-| USB over IP | | | | |
-| WebIOPi | | | | |
+| Name and Official URL | Price | Developer    | Description | License | Active |
+|:---------------------:|:------:|:-----:|:-----------:|:-------:|:------:|
+| [Asterisk](http://www.raspberry-asterisk.org/) | Free | Digium, Inc. |             | GPLv2   | Yes    |
+| Audio Controller | | | | | |
+| [BarracudaDrive (now FuguHub)](http://fuguhub.com/RaspberryPi.lsp) | Free | Real Time Logic LLC | | Proprietary | Yes |
+| [Calculator++](http://store.raspberrypi.com/projects/calculator) | Free | TironisSoftWorks | A simple calculator made in C++ and GTK. | RemixEULA | No |
+| Calorie Counter | | | | | | 
+| Cricket Scores LIVE | | | | | |
+| [LibreOffice](https://www.libreoffice.org/) | Free | The Document Foundation | | MPLv2 | Yes |
+| [OMX Player](https://github.com/huceke/omxplayer) | Free | Edgar Hucek | | GPLv2 | |
+| PiLauncher | | | | | |
+| Scamp AV Player | | | | | |
+| USB over IP | | | | | |
+| WebIOPi | | | | | |
 
 ## Games
 * The Abandoned Farmhouse Adventure
@@ -59,7 +59,12 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 * [Quip - Blow Your Friends Away](https://bitbucket.org/xixs/leedshack/src)
 
 ## Tutorials
-* Raspberry Invaders
+| Name and Official URL | Price | Developer | Description | License | Active |
+|:---------------------:|:-----:|:---------:|:-----------:|:-------:|:------:|
+| mOway + Scratch Guide | Free  |  | |   |   |
+| Python SQL Database | Free  |  | |   |   |
+| Raspberry Invaders | Blitz Games | Free |   |   |
+| Teamspeak Server On Raspberry Pi | Free | [DoseOfTech](http://www.doseoftech.co.uk) | A tutorial showing you how to set up a Teamspeak server on the Raspberry Pi. Note: Requires Windows PC | | |
 
 ## Emulators
 * Atari800
@@ -73,7 +78,6 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 * Code::Blocks
 * Grafx2
 * HUD Sprite Pack
-* Python SQL Database
 * Py3D
 * Schism Tracker
 
