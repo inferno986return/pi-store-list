@@ -63,7 +63,7 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 |:---------------------:|:-----:|:---------:|:-----------:|:-------:|:------:|
 | mOway + Scratch Guide | Free  |  | |   |   |
 | Python SQL Database | Free  |  | |   |   |
-| Raspberry Invaders | Blitz Games | Free |   |   |
+| Raspberry Invaders | Free | Blitz Games | 17 lessons in Python to teach the beginner how to make a space invaders-style game. Complete with instructions, graphics and audio | Remix EULA | No  |
 | Teamspeak Server On Raspberry Pi | Free | [DoseOfTech](http://www.doseoftech.co.uk) | A tutorial showing you how to set up a Teamspeak server on the Raspberry Pi. Note: Requires Windows PC | | |
 
 ## Emulators
