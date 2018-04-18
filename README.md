@@ -46,12 +46,12 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 * Noughts and Crosses
 * Mini-sub game
 * Pong Singleplayer
-* Chocolate Doom
+* [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom)
 * Hunted
-* POWDER
+* [POWDER](http://www.zincland.com/powder/)
 * OpenArena
-* OpenTTD
-* FreeCiv
+* [OpenTTD](https://www.openttd.org/en/)
+* [FreeCiv](http://www.freeciv.org/)
 * Pi Cars Software Tools App
 * Crazy Ping
 * DMazeD
