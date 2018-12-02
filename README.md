@@ -51,7 +51,7 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 | [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) | | | | | | |
 | Hunted | | | | | | |
 | [POWDER](http://www.zincland.com/powder/) | | | | | | |
-| [OpenArena]() | | | | | | |
+| [OpenArena](http://www.openarena.ws/) | | | | | | |
 | [OpenTTD](https://www.openttd.org/en/) | | | | | | |
 | [FreeCiv](http://www.freeciv.org/) | | | | | | |
 | Pi Cars Software Tools App | | | | | | |
