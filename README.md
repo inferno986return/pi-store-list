@@ -31,7 +31,7 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 ## Games
 | Name and Official URL | Price | Developer | Description | License | Active | References |
 |:---------------------:|:------:|:--------:|:-----------:|:-------:|:------:|:----------:|
-| [The Abandoned Farmhouse Adventure](http://jefftranter.blogspot.com/2013/01/more-about-abandoned-farmhouse-adventure.html) ([repo](https://github.com/jefftranter/raspberrypi/tree/master/adventure)) | | Jeff Tranter | | Apache | No | |
+| [The Abandoned Farmhouse Adventure](http://jefftranter.blogspot.com/2013/01/more-about-abandoned-farmhouse-adventure.html) ([repo](https://github.com/jefftranter/raspberrypi/tree/master/adventure)) ([mirror](https://github.com/inferno986return/raspberrypi)) | | Jeff Tranter | | Apache | No | |
 | Iridium Rising | Free | | Fight and race your friends in Iridium Rising, a 3D multiplayer space combat game. | Proprietary | No | [1](https://itsfoss.com/raspberry-pi-get-its-own-app-store/) |
 | King's Treasure | | | | | | |
 | Lunar Panda | | | | | | |
