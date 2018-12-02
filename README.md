@@ -31,7 +31,7 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 ## Games
 | Name and Official URL | Price | Developer | Description | License | Active | References |
 |:---------------------:|:------:|:--------:|:-----------:|:-------:|:------:|:----------:|
-| The Abandoned Farmhouse Adventure | | | | | | |
+| [The Abandoned Farmhouse Adventure](http://jefftranter.blogspot.com/2013/01/more-about-abandoned-farmhouse-adventure.html) ([repo](https://github.com/jefftranter/raspberrypi/tree/master/adventure)) | | Jeff Tranter | | Apache | No | |
 | Iridium Rising | Free | | Fight and race your friends in Iridium Rising, a 3D multiplayer space combat game. | Proprietary | No | [1](https://itsfoss.com/raspberry-pi-get-its-own-app-store/) |
 | King's Treasure | | | | | | |
 | Lunar Panda | | | | | | |
@@ -51,7 +51,7 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 | [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) | | | | | | |
 | Hunted | | | | | | |
 | [POWDER](http://www.zincland.com/powder/) | | | | | | |
-| OpenArena | | | | | | |
+| [OpenArena]() | | | | | | |
 | [OpenTTD](https://www.openttd.org/en/) | | | | | | |
 | [FreeCiv](http://www.freeciv.org/) | | | | | | |
 | Pi Cars Software Tools App | | | | | | |
@@ -88,4 +88,4 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 | Schism Tracker | | | | | | |
 
 ## Media
-The Media section of the Pi Store only had PDF issues of the Raspberry Pi's official magazine, the (MagPi)[https://www.raspberrypi.org/magpi/]. They can be downloaded from the website for free.
+The Media section of the Pi Store only had PDF issues of the Raspberry Pi's official magazine, [The MagPi](https://www.raspberrypi.org/magpi/). They can be downloaded from the website for free.
