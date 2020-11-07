@@ -36,7 +36,7 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 | [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) | | | A DOOM source port that attempts to be as close to the original 1993 release. | | | |
 | Crazy Ping | | | | | | |
 | DMazeD | | | | | | |
-| Dr Bulbaceous - Puzzle Solver | | | | | | |
+| [Dr Bulbaceous - Puzzle Solver](http://wetgenes.com/press/bulbaceous) | £1.99 | Wetgenes | | | Yes | |
 | [FreeCiv](http://www.freeciv.org/) | | | | | | |
 | Hunted | | | | | | |
 | Iridium Rising | Free | | Fight and race your friends in Iridium Rising, a 3D multiplayer space combat game. | Proprietary | No | [1](https://itsfoss.com/raspberry-pi-get-its-own-app-store/) |
@@ -48,6 +48,7 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 | Multisnake | | | | | | |
 | Mushroom Bounce! | | | | | | |
 | Noughts and Crosses | | | | | | |
+| [NXEngine (Cave Story)](http://nxengine.sourceforge.net/) | Free | Caitlin Shaw | A complete open-source clone/rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story). | GPLv3 | Yes | [1](https://www.raspberrypi.org/forums/viewtopic.php?t=57754)
 | [OpenArena](http://www.openarena.ws/) | | | | | | |
 | [OpenTTD](https://www.openttd.org/en/) | | | | | | |
 | Pi Cars Software Tools App | | | | | | |
