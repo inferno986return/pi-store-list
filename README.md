@@ -21,6 +21,7 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 | [Calculator++](http://store.raspberrypi.com/projects/calculator) | Free | TironisSoftWorks | A simple calculator made in C++ and GTK. | RemixEULA | No | |
 | Calorie Counter | | | | | | |
 | Cricket Scores LIVE | | | | | |
+| Despotify | | | A former Spotify client for the Raspberry Pi | | | | [1](https://www.raspberrypi.org/forums/viewtopic.php?t=13443)
 | [LibreOffice](https://www.libreoffice.org/) | Free | The Document Foundation | | MPLv2 | Yes |
 | [OMX Player](https://github.com/huceke/omxplayer) | Free | Edgar Hucek | | GPLv2 | |
 | PiLauncher | | | | | | |
@@ -31,34 +32,33 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 ## Games
 | Name and Official URL | Price | Developer | Description | License | Active | References |
 |:---------------------:|:------:|:--------:|:-----------:|:-------:|:------:|:----------:|
-| [The Abandoned Farmhouse Adventure](http://jefftranter.blogspot.com/2013/01/more-about-abandoned-farmhouse-adventure.html) ([repo](https://github.com/jefftranter/raspberrypi/tree/master/adventure)) ([mirror](https://github.com/inferno986return/raspberrypi)) | | Jeff Tranter | | Apache | No | |
+| Battleship (CLI) | | | | | | |
+| [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) | | | A DOOM source port that attempts to be as close to the original 1993 release. | | | |
+| Crazy Ping | | | | | | |
+| DMazeD | | | | | | |
+| Dr Bulbaceous - Puzzle Solver | | | | | | |
+| [FreeCiv](http://www.freeciv.org/) | | | | | | |
+| Hunted | | | | | | |
 | Iridium Rising | Free | | Fight and race your friends in Iridium Rising, a 3D multiplayer space combat game. | Proprietary | No | [1](https://itsfoss.com/raspberry-pi-get-its-own-app-store/) |
 | King's Treasure | | | | | | |
 | Lunar Panda | | | | | | |
-| Storm in a Teacup | | | | | | |
-| The Little Crane That Could | | | | | | |
-| RPi-Board | | | | | | |
-| Mushroom Bounce! | | | | | | |
-| Dr Bulbaceous - Puzzle Solver | | | | | | |
-| King's Treasure | | | | | | |
+| Martian Invaders | | | | | | |
 | Minesweeper CLI | | | | | | |
-| Battleship (CLI) | | | | | | |
-| Multisnake | | | | | | |
-| Solitaire | | | | | | |
-| Noughts and Crosses | | | | | | |
 | Mini-sub game | | | | | | |
-| Pong Singleplayer | | | | | | |
-| [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) | | | | | | |
-| Hunted | | | | | | |
-| [POWDER](http://www.zincland.com/powder/) | | | | | | |
+| Multisnake | | | | | | |
+| Mushroom Bounce! | | | | | | |
+| Noughts and Crosses | | | | | | |
 | [OpenArena](http://www.openarena.ws/) | | | | | | |
 | [OpenTTD](https://www.openttd.org/en/) | | | | | | |
-| [FreeCiv](http://www.freeciv.org/) | | | | | | |
 | Pi Cars Software Tools App | | | | | | |
-| Crazy Ping | | | | | | |
-| DMazeD | | | | | | |
-| Martian Invaders | | | | | | |
-| [Quip - Blow Your Friends Away](https://bitbucket.org/xixs/leedshack/src) ([mirror](https://github.com/inferno986return/quip-blow-your-friends-away-mirror)) | | | | | | |
+| Pong Singleplayer | | | | | | |
+| [POWDER](http://www.zincland.com/powder/) | | | | | | |
+| [Quip - Blow Your Friends Away](https://bitbucket.org/xixs/leedshack/src) ([mirror](https://github.com/inferno986return/quip-blow-your-friends-away-mirror)) | | 
+| RPi-Board | | | | | | |
+| Solitaire | | | | | | |
+| Storm in a Teacup | | | | | | |
+| [The Abandoned Farmhouse Adventure](http://jefftranter.blogspot.com/2013/01/more-about-abandoned-farmhouse-adventure.html) ([repo](https://github.com/jefftranter/raspberrypi/tree/master/adventure)) ([mirror](https://github.com/inferno986return/raspberrypi)) | | Jeff Tranter | | Apache | No | 
+| The Little Crane That Could | | | | | | |
 
 ## Tutorials
 | Name and Official URL | Price | Developer | Description | License | Active |
@@ -82,10 +82,10 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 | Audio Pack | | | | | |
 | Chimera Engine | £9.99 | Zero Dependency (Andy Esser) | C++ game engine that used OpenGL | Proprietary | No | [1](http://raspberrypimodel.blogspot.com/2013/02/apps-chimera-game-engine.html)
 | [Code::Blocks](http://codeblocks.org/) | Free | | | GPLv3 | Yes | |
-| Grafx2 | | | | | | |
+| [GrafX2](http://grafx2.chez.com/) | Free | Grafx2 project team, Sunset Design | A bitmap editor for 256-bit art. | GPLv2 | Yes | |
 | HUD Sprite Pack | | | | | | |
 | Py3D | | | | | | |
-| Schism Tracker | | | | | | |
+| [Schism Tracker](http://schismtracker.org/) | Free | | A re-implementation of the DOS tracker Impulse Tracker | GPLv2 | Yes | |
 
 ## Media
 The Media section of the Pi Store only had PDF issues of the Raspberry Pi's official magazine, [The MagPi](https://www.raspberrypi.org/magpi/). They can be downloaded from the website for free.
