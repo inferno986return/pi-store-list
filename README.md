@@ -60,6 +60,7 @@ The Remix EULA was a license specific to the Pi Store that allowed alteration of
 | Storm in a Teacup | | | | | | |
 | [The Abandoned Farmhouse Adventure](http://jefftranter.blogspot.com/2013/01/more-about-abandoned-farmhouse-adventure.html) ([repo](https://github.com/jefftranter/raspberrypi/tree/master/adventure)) ([mirror](https://github.com/inferno986return/raspberrypi)) | | Jeff Tranter | | Apache | No | 
 | The Little Crane That Could | | | | | | |
+| Zombie X Pro | £1.00 | | | | | | [1](https://issuu.com/themagpi/docs/issue19final/35)
 
 ## Tutorials
 | Name and Official URL | Price | Developer | Description | License | Active |
